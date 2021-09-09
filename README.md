@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala Pessoal! Eu sou o Lucas Lourenção e estou aqui para aprender e ser cada dia melhor! 👋
 
 <div>
   <a href="https://github.com/Lucas-Lourencao">
