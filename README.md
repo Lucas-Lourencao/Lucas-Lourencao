@@ -13,7 +13,7 @@
   <img align="center" alt="LL-Python" height="30" width="40" src="https://devicons.herokuapp.com/mysql-original-wordmark.svg">
   <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/php-plain.svg">
   <img align="center" alt="LL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LL-Python" height="30" width="40" src="https://devicons.herokuapp.com/github-original.svg">
+  <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/git-plain-wordmark.svg">
   <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/github-original-wordmark.svg">
   
 </div>
