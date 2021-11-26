@@ -1,4 +1,4 @@
-### Fala Pessoal! Eu me chamo Lucas Lourenção, estou aqui para aprender e, no que puder, agregar também! 👋
+### Fala Pessoal!  👋
 
 <div>
   <a href="https://github.com/Lucas-Lourencao">
