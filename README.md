@@ -9,12 +9,7 @@
   <img align="center" alt="LL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="LL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/android-original.svg">
-  <img align="center" alt="LL-Python" height="30" width="40" src="https://devicons.herokuapp.com/mysql-original-wordmark.svg">
-  <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/php-plain.svg">
   <img align="center" alt="LL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/git-plain-wordmark.svg">
-  <img align="center" alt="LL-CSS" height="30" width="40" src="https://devicons.herokuapp.com/github-original-wordmark.svg">
   
 </div>
 <!--
