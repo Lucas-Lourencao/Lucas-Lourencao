@@ -1,4 +1,4 @@
-### Fala Pessoal!  👋
+### Fala Pessoal! 👋
 
 <div>
   <a href="https://github.com/Lucas-Lourencao">
@@ -11,10 +11,9 @@
   <img align="center" alt="LL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="center" alt="LL-php" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/php_2306154?term=php&page=1&position=11&origin=search&related_id=2306154">
-  <img align="center" alt="LL-MySql" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/mysql_919836?term=mysql&page=1&position=4&origin=search&related_id=919836">
+  <img align="center" alt="LL-php" height="30" width="40" src="/img/mysql.png">
+  <img align="center" alt="LL-MySql" height="30" width="40" src="/img/php.png">
   
-  https://www.flaticon.com/br/icone-gratis/mysql_919836?term=mysql&page=1&position=4&origin=search&related_id=919836-->
   
 </div>
 <!--
@@ -30,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
