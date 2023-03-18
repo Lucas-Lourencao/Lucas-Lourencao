@@ -1,4 +1,4 @@
-### Fala Pessoal! 👋
+### Stay hungry! Stay Foolish!🖖 🤓
 
 <div>
   <a href="https://github.com/Lucas-Lourencao">
