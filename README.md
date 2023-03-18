@@ -1,4 +1,4 @@
-### Stay hungry! Stay Foolish!🖖 🤓
+### Stay hungry! Stay Foolish! 🖖 🤓
 
 <div>
   <a href="https://github.com/Lucas-Lourencao">
