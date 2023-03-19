@@ -1,6 +1,6 @@
 <div>
   <p>
-    <h1>Stay hungry! Stay Foolish!</h1> 🤓
+    <h1>Stay hungry! Stay Foolish! 🤓</h1> 
   </p>
 </div>
 <div>
@@ -18,6 +18,6 @@
 </div>
 <div>
   <p>
-     <h2>Don't settle!</h2> 🖖
+     <h2>Don't settle! 🖖</h2> 
   </p>
 </div>
