@@ -12,6 +12,5 @@
   <img align="center" alt="LL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LL-php" height="30" width="50" src="/img/mysql.png">
   <img align="center" alt="LL-MySql" height="30" width="50" src="/img/php.png">
-  
-  
+  <h2>Don't settle 🖖</h2> 
 </div>
