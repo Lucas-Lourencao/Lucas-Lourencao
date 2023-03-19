@@ -1,5 +1,4 @@
-### Stay hungry! Stay Foolish! 🤓
-
+<div><h1>Stay hungry! Stay Foolish!</h1> 🤓
 <div>
   <a href="https://github.com/Lucas-Lourencao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lourencao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,5 +11,5 @@
   <img align="center" alt="LL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="LL-php" height="30" width="50" src="/img/mysql.png">
   <img align="center" alt="LL-MySql" height="30" width="50" src="/img/php.png">
-  <h2>Don't settle 🖖</h2> 
+  <h3>Don't settle</h3> 🖖 
 </div>
