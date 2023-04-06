@@ -30,9 +30,16 @@
 <div sttyle="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div>
-  
-<div>
+
+<div align="center">
   <p>
      <h2>Don't settle!</h2>🖖
   </p>
 </div>
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas-Lourencao}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
