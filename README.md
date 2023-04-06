@@ -1,9 +1,9 @@
-<div align="center">
+<div>
   <p>
     <h1>Stay hungry! Stay Foolish!</h1>🤓
   </p>
 </div>
-<div align="center">
+<div>
   <a href="https://github.com/Lucas-Lourencao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lourencao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lourencao&layout=compact&langs_count=7&theme=dark"/>
@@ -31,13 +31,13 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div>
 
-<div align="center">
+<div>
   <p>
      <h2>Don't settle!</h2>🖖
   </p>
 </div>
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas-Lourencao}/count.svg" /></p> 
+ <div>
+<br><p><b>Visitors Count</b></p>  
+<p><img align="center" src="https://profile-counter.glitch.me/{Lucas-Lourencao}/count.svg" /></p> 
 <br></div>
